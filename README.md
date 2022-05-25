@@ -31,6 +31,7 @@ So if you want to upgrade your beauty, just visit OUR SALON!
 ## Authors
 
 Britney Hubilla (https://github.com/Britney151)
+
 Diana Rose De Guzman (https://github.com/dianadeguzman30)
 ## References
 
