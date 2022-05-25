@@ -30,8 +30,8 @@ So if you want to upgrade your beauty, just visit OUR SALON!
   Yes, Just kindly DM on our website.
 ## Authors
 
-Britney Hubilla (README.md content,)
-Diana Rose De Guzman (Logo, README.md content)
+Britney Hubilla (https://github.com/Britney151)
+Diana Rose De Guzman (https://github.com/dianadeguzman30)
 ## References
 
 1. https://www.directlineforbusiness.co.uk/small-business-insurance/hair-and-beauty-insurance/knowledge-centre/types-of-salon
